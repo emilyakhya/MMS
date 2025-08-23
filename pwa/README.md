@@ -1,4 +1,4 @@
-# Pill Counter PWA
+# MMS - Pill Counter PWA
 
 A Progressive Web App (PWA) for AI-powered pill counting designed for Community Health Promoters (CHPs) working with pregnant women.
 

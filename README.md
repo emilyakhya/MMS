@@ -1,4 +1,4 @@
-# AI-Powered Pill Counting PWA System
+# MMS - AI-Powered Pill Counting PWA System
 
 A Progressive Web App (PWA) for Community Health Promoters (CHPs) to count pills using AI-powered computer vision, with offline support and real-time synchronization.
 
@@ -130,8 +130,8 @@ A Progressive Web App (PWA) for Community Health Promoters (CHPs) to count pills
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd pill-counting-pwa
+   git clone https://github.com/emilyakhya/MMS.git
+   cd MMS
    ```
 
 2. **Setup Backend**

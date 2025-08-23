@@ -35,7 +35,7 @@ The easiest way to start the system is using the automated startup script:
 
 ```bash
 # Make sure you're in the project root directory
-cd /Users/admin/SID
+cd /Users/admin/MMS
 
 # Run the startup script
 ./start_local.sh
