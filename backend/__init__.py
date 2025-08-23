@@ -1,1 +1,1 @@
-# Backend package for Smart Pill Detection System
+# Backend package for MMS Pill Counting System
