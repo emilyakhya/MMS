@@ -2,6 +2,43 @@
 
 A Progressive Web App (PWA) for Community Health Promoters (CHPs) to count pills using AI-powered computer vision, with offline support and real-time synchronization.
 
+## 🚀 Quick Start
+
+### One-Command Setup
+
+Get the entire system running with a single command:
+
+```bash
+./start_local.sh
+```
+
+This will:
+- ✅ Start the backend API server (port 8000)
+- ✅ Start the PWA frontend (port 3000) 
+- ✅ Start the dashboard (port 3001)
+- ✅ Install all dependencies automatically
+- ✅ Initialize the database
+- ✅ Handle process management and cleanup
+
+### Access Your Applications
+
+Once the script finishes, open **Google Chrome** and navigate to:
+
+- **📱 PWA App**: http://localhost:3000
+- **📊 Dashboard**: http://localhost:3001  
+- **📚 API Docs**: http://localhost:8000/docs
+
+### Test Login
+
+Use these credentials to test the system:
+
+```
+Email: chp1@mms.org
+Password: password123
+```
+
+For more detailed setup instructions, see [QUICK_START.md](./QUICK_START.md).
+
 ## 🚀 Features
 
 ### PWA (Progressive Web App)
@@ -41,31 +78,38 @@ A Progressive Web App (PWA) for Community Health Promoters (CHPs) to count pills
                     └─────────────────┘
 ```
 
+For detailed architecture information, see [MASTER_ARCHITECTURE.md](./MASTER/MASTER_ARCHITECTURE.md).
+
 ## 🛠️ Tech Stack
 
 ### Frontend (PWA)
-- **React 18** - UI framework
-- **React Router** - Navigation
-- **Tailwind CSS** - Styling
-- **zxing-js** - Barcode scanning
-- **IndexedDB** - Offline storage
+- **React 18.2.0** - UI framework
+- **React Router 6.8.0** - Navigation
+- **Tailwind CSS 3.3.0** - Styling
+- **zxing-js 0.21.3** - Barcode scanning
+- **IndexedDB** - Offline storage via idb 7.1.1
 - **Service Workers** - Offline functionality
-- **Axios** - HTTP client
+- **Axios 1.4.0** - HTTP client
+- **React Hot Toast 2.4.1** - Notifications
+- **Lucide React 0.263.1** - Icons
 
 ### Frontend (Dashboard)
-- **React 18** - UI framework
-- **Material-UI** - Component library
-- **Recharts** - Data visualization
-- **React Router** - Navigation
-- **Axios** - HTTP client
+- **React 18.2.0** - UI framework
+- **Material-UI 5.14.0** - Component library
+- **Recharts 2.8.0** - Data visualization
+- **React Router 6.15.0** - Navigation
+- **Axios 1.6.2** - HTTP client
+- **Date-fns 2.30.0** - Date utilities
 
 ### Backend
-- **FastAPI** - API framework
-- **SQLAlchemy** - ORM
-- **SQLite** - Database
-- **YOLOv8** - Computer vision model
-- **JWT** - Authentication
-- **Pillow** - Image processing
+- **FastAPI 0.104.1** - API framework
+- **SQLAlchemy 2.0.23** - ORM
+- **SQLite** - Database (development)
+- **YOLOv8** - Computer vision model via ultralytics 8.0.196
+- **JWT** - Authentication via python-jose 3.3.0
+- **Pillow 10.1.0** - Image processing
+- **OpenCV 4.8.1.78** - Computer vision
+- **Pydantic 2.5.0** - Data validation
 
 ## 📱 PWA Features
 
@@ -126,7 +170,15 @@ A Progressive Web App (PWA) for Community Health Promoters (CHPs) to count pills
 - Python 3.8+
 - Chrome browser (for PWA testing)
 
-### Installation
+### Quick Setup (Recommended)
+
+Use the one-command setup script:
+
+```bash
+./start_local.sh
+```
+
+### Manual Installation
 
 1. **Clone the repository**
    ```bash
@@ -162,6 +214,7 @@ A Progressive Web App (PWA) for Community Health Promoters (CHPs) to count pills
 - **PWA**: http://localhost:3000
 - **Dashboard**: http://localhost:3001
 - **Backend API**: http://localhost:8000
+- **API Documentation**: http://localhost:8000/docs
 
 ## 🧪 Testing
 
@@ -567,3 +620,11 @@ For support and questions:
 - **Mobile App**: Native iOS/Android apps
 - **Cloud Storage**: Image backup and sharing
 - **Integration**: EHR system integration
+
+## 📚 Additional Documentation
+
+- [Quick Start Guide](./QUICK_START.md) - One-command setup and troubleshooting
+- [System Architecture](./MASTER/MASTER_ARCHITECTURE.md) - Detailed technical architecture
+- [Requirements](./MASTER/MASTER_REQUIREMENTS.md) - System requirements and specifications
+- [User Stories](./MASTER/MASTER_STORIES.md) - User requirements and use cases
+- [UAT Guide](./MASTER/MASTER_UAT.md) - User acceptance testing procedures
