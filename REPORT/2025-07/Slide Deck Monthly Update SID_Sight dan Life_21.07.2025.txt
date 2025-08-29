@@ -1,0 +1,332 @@
+http://sid-indonesia.org
+Monthly update SID
+Friday, 22nd July 2025
+
+The survey had 274 respondents.
+The survey was conducted from June 26 - July 21 2025 (Last update)
+Home visit and Online survey
+Survey purpose: To identify pregnant women's preferences on supplement type, packaging, and label information to support the development of a more effective MMS product.
+Update on MMS Survey Result
+The majority (129 women) took IFA (Iron-Folic Acid) alone, indicating it’s the most commonly distributed and accepted supplement. IFA and Vitamin was the next most common combination (56 women), showing that some women are receiving additional micronutrients. Only a small number of women took Calcium, MMS (Multiple Micronutrient Supplement), or Other Supplements—either alone or in combination.
+A large majority (94.5%) consumed only 1–2 types of pills per day, indicating a relatively low supplement load, which may support better adherence.
+A small portion (5.5%) took 3–4 types of pills, suggesting either more comprehensive supplementation or fragmented supply requiring multiple pills.
+
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+2
+
+Update on MMS Survey Result
+The majority of pregnant women reported taking supplements once per day (87.5%), while 11% took them twice a day, and only 1.5% reported taking them three times per day.
+Most women (86.7%) reported consuming supplements daily, while 12.5% took them irregularly, and a small number (0.8%) consumed supplements every two days.
+The pie chart reflect positive adherence trends overall, with most women maintaining daily supplementation.
+
+The smaller percentages of irregular or less frequent intake highlight opportunities for targeted counseling or support to improve compliance.
+Night time is the preferred time for supplement intake, possibly due to routine or reduced side effects (e.g., nausea).
+Morning intake is less common, which may be influenced by symptoms like morning sickness or busy schedules.
+A small group takes supplements multiple times a day, potentially reflecting individual routines or specific medical advice.
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+3
+
+Update on MMS Survey Result
+The majority of mothers (75%) do not take more than one type of supplement at the same time, possibly due to a lack of information, fear of interactions, or limited access. Around (25%) do take multiple supplements at once, indicating varied supplement intake practices.
+
+Supplements Intake Combination
+Calcium Intake Consultation
+Over one-third (36.5%) have not consulted anyone, suggesting there’s still room for improved communication and education from healthcare professionals.
+
+Healthcare consultation plays a key role: Mothers who consult health professionals are more likely to understand supplement needs and intake timing.
+Most women take only one type of supplement, indicating a possible lack of awareness about how to safely combine supplements like iron and calcium (which require time separation).
+There is a need for better education on the safe and effective use of multiple supplements, and the importance of discussing supplement plans with healthcare providers.
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+4
+
+Update on MMS Survey Result
+From a total of 255 respondents, the majority of pregnant women reported either no difficulty (93 responses, ~36%) or forgetfulness / lack of knowledge (69 responses, ~27%) as their main issues with daily supplement intake. This suggests that while many do not face physical barriers, a large portion may benefit from better education or reminders to improve adherence.
+Type of Challenge Experienced When Taking IFA/Supplements
+Implication:1. Health education and reminder systems could significantly reduce forgetfulness and improve compliance.
+2. Consideration should be given to the formulation of supplements (e.g., smaller pills, coated tablets, or liquids) to help those with nausea or swallowing difficulty.
+3. Counseling during antenatal care should include discussions about potential side effects and how to manage them.
+
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+5
+
+Update on MMS Survey Result
+The vast majority of mothers (over 88%) receive supplements from Posyandu, showing its central role in public maternal health support. Only a small portion acquire supplements from pharmacies or health facilities, indicating high reliance on government-distributed supplements.
+Most mothers (nearly 85%) get supplements for free, likely from government programs. Only 15% purchase supplements out-of-pocket, with varying price ranges — indicating economic accessibility may still be a barrier for some.
+
+Government health services (especially Posyandu) are the main source of pregnancy supplements, playing a crucial role in maternal nutrition access.
+Most women do not pay for supplements, which shows the effectiveness of free public health programs. However, a minority still purchase them, either by choice or due to specific needs or gaps in availability.
+Maintaining and improving access to free supplements through Posyandu and similar services is essential for supporting maternal health, especially in lower-income communities.
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+6
+
+Update on MMS Survey Result
+Supplement Preferences Among Pregnant Women – Survey Summary
+The data clearly show that pregnant women prefer strip-packaged supplements that are small in size, neutral in taste, and light-colored (white).
+These preferences may be driven by comfort, ease of consumption, and familiarity, which are critical factors in ensuring adherence to supplement intake during pregnancy.
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+7
+
+Update on MMS Survey Result
+The most information that should be included on the supplement packaging
+The expiration date is the most important information for respondents, chosen by nearly 78% of mothers — reflecting concerns about product safety and effectiveness.
+The halal label is also a significant factor (60.6%), likely due to cultural and religious dietary considerations.
+Over half of the respondents (54.5%) consider BPOM certification essential, indicating trust in regulatory approval.
+Dosage instructions and benefit information are moderately important, while fewer respondents selected ingredient list or storage guidelines as critical.
+This survey result will be our guidance in making the packaging of MMS
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+8
+
+Labelling with local language
+Supplement Packaging Design: In designing this supplement packaging, our focus is on ensuring safety, clarity, and trust, particularly for pregnant women. Therefore, the packaging will include the following essential information.
+Use of Two Languages (Indonesian & Local Language):To ensure that pregnant women from diverse backgrounds fully understand the information, we will include key information in: Indonesian, the official national language.
+Local procurement with generic calcium. We are going to use Calcium Lactate.
+Ingredients
+How to use, How to Store, and who can consume
+Halal Label
+Unique barcode
+Side effect, caution
+Expired date
+Additional Ingredients
+Any Additional Information
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+9
+
+Implementation of Knowledge Gateway Assessment
+Implementation:
+Knowledge Gateway Assessment Statistics
+Total registered participants: 284 midwives
+Participant: Midwife from Community Health Centers, Hospitals, and Private Clinics
+The examination lasts 6 days , is flexible and remote
+Technical Meeting:
+Date: May 20 & June 4, 2025
+Participants: ±145 people
+Knowledge Gateway Exam:
+Date: June 10–16, 2025
+Format: Online proctored testFlexible, participants can choose the time
+Invitations are sent via email
+Knowledge Gateway is an assessment tool specifically designed to map midwives’ knowledge in the field of midwifery, particularly related to antenatal care, childbirth, and postpartum services.
+
+The main objectives of this assessment are to:
+Evaluate how well midwives understand standard midwifery practices, including early detection of complications, and nutritional counseling
+Identify strengths and gaps in midwives’ knowledge as a basis for targeted capacity-building.
+Support the improvement of maternal health services through more focused and needs-based training interventions.
+By systematically mapping midwives’ knowledge, Knowledge Gateway helps ensure that every midwife is equipped with adequate competencies to provide care that is safe, evidence-based, and responsive to the needs of pregnant women.
+
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+10
+
+North Lombok Midwife Assessment result
+Nipah, Tanjung, and Gangga Community Health Centers consistently scored high across many categories, demonstrating strong health worker competency.
+Hamzanwadi Clinic and PKU Muhammadiyah have low scores in various categories, especially in:(Recording and Reporting, Baby, Professional Ethics)
+The Recording and Reporting and Infection Prevention categories were the lowest scoring categories overall across facilities, indicating a need for capacity building in the documentation and infection control aspects.
+The Postpartum, Neonate, and Professional Ethics categories showed high scores in several facilities, such as the Gangga and Kayangan Health Centers.
+The lowest scores were seen at Hamzanwadi Clinic for the Infant (45.83%) and Recording and Reporting (33.83%) categories .
+Conclusions: Based on a heatmap analysis of Knowledge Gateway scores per community health center/clinic and competency category, it was found that competency mastery levels varied widely. This indicates the need to develop a responsive training curriculum based on real-world needs (a needs-based curriculum).
+Midwifery care
+Baby
+Professional ethics
+Emergency
+Pregnancy and Antenatal Care
+Family Planning
+Reproduction health
+Neonatus
+Postpartum
+Monitoring and Evaluation
+Infection prevention
+Childbirth
+Competencies category
+Primary Healthcare and Clinics
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+11
+
+SUMMIT 25th Year and Grand Launching MMS
+
+Commemorating 25 Years of the SUMMIT Study and Grand Launching Smart MMS: Series of Events
+In celebration of the 25th anniversary of the SUMMIT (Supplementation with Multiple Micronutrients Intervention Trial) study, Summit Institute for Development (SID) will hold a series of events throughout July and August 2025.
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+12
+
+SUMMIT 25th Year and Grand Launching MMS
+
+This event is a forum for gathering multi-sector commitments , including government, academics, professional organizations, and communities, to work together to make the MMS program a success.
+Cross-sector support will strengthen the implementation and sustainability of programs in the field.
+
+This event is in line with the ongoing efforts to transform primary healthcare services and digitize data in Indonesia.
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+13
+
+Al for Automatic Counting
+
+Background
+
+Al Development Process
+
+Referensi : Asian Guideline Al Development 
+
+AI Update for Compliance: Pill count AI training
+
+
+
+
+
+
+Three AI Engineer is working on the AI training model.
+We conducted the training using libraries from:
+Vertex
+OpenAl, which provided more accurate results
+YOLO for annotation, although it had limitations, particularly with tablets located beneath the surface, which could not be accurately annotated.
+Result on training, check this document
+
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+16
+
+AI Update for Compliance: AI Model Training
+
+
+
+
+Image Data Collection: We gather image of MMS in bottle, approximately 3200 images. the data that will be used to train the AI model. This includes various images representing the MMS in bottle.
+Data Splitting: Randomly divide the collected dataset into three subsets:
+Training Set: Used to train the AI model.
+Validation Set: Used to tune the model’s parameters and avoid overfitting.
+Test Set: Used to evaluate the final performance of the trained model.
+Data LabelingManually or semi-automatically label the images by identifying and tagging the key objects or features that the AI needs to learn. The object is the MMS supplement
+
+
+6. Model Training: Use the labeled training data to train the AI model. The model learns to recognize patterns and associations from the input images and their corresponding labels.
+7. Model Testing: Test the trained model using the previously separated test dataset. This evaluates how well the model performs on unseen data and simulates real-world usage scenarios.
+8. Performance Evaluation: Assess the model’s accuracy, precision, recall, and other relevant metrics using the test data results. This step determines if the model meets the predefined performance thresholds.
+9. Model Refinement (If Needed): If the model's performance does not meet the set accuracy standard, retrain the model. This may involve re-tuning hyperparameters, adding more data, or improving the labeling quality.
+10. Model Deployment: Once the model achieves the required accuracy and performance standards, deploy it into the production environment.
+11. Integration into KuApps: The final AI model will be integrated into KuApps, enabling users to utilize its capabilities for image-based recognition or classification within the application.
+
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+17
+
+
+
+
+
+Thankyou!
+
+
+How FHIR and interoperability is implemented in SID: 
+FHIR-native alternative pipeline with KoBo Toolbox (explained in prev section)
+Genomics 
+MoH partnership as the only interministry FHW information platform
+How’s the impact 
+
+
+18
